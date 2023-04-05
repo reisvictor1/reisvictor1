@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+VictorProfile
+
+Olá, sou o Victor!
+
+Curso Ciência da Computação na USP São Carlos e sou programador desde 2014. Atualmente mexo mais com desenvolvimento Fullstack eestou estudando sobre arquiteturas de software.
+
+Aqui tem algum dos meus stats no GitHub: 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reisvictor1)](https://github.com/reisvictor1/reisvictor1)
